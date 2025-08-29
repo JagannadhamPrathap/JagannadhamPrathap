@@ -1,4 +1,4 @@
-# 💫 Who I am:
+# 👾 Who I am:
 🔭 I’m currently working on DSA with Python<br>👯 I’m looking to collaborate on Python Full Stack<br>🤝 I’m looking for help with Web App Dev.<br>🌱 I’m currently learning Flask & Django<br>💬 Ask me about logic cracking<br>⚡ Fun fact: No talk, only code
 
 
