@@ -21,7 +21,7 @@
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,django,html,css,js,java,c,mysql,github,vscode,mongodb,reactjs" />
+  <img src="https://skillicons.dev/icons?i=python,flask,django,html,css,js,java,c,mysql,github,vscode,mongodb,reactjs,tailwind,github" />
 </p>
 
 ---
@@ -68,10 +68,16 @@
 
 ## 👁️ Visitor Count
 
-![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FJagannadhamPrathap&label=VISITORS)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YourUserName.YourRepoName&left_color=black&right_color=blue)
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Built+with+%E2%9D%A4%EF%B8%8F+using+Markdown+on+GitHub" />
+  <p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=600&lines=Welcome+to+my+GitHub+Profile+%F0%9F%91%8B;Have+a+Good+Tour+Around+My+Repos+%F0%9F%97%82%EF%B8%8F;Explore+Projects+in+IoT+%26+Web+Development+%E2%9A%A1;Let's+Build+Something+Amazing+Together+%F0%9F%9A%80;Crafting+Ideas+into+Code+%F0%9F%9A%80" 
+    alt="Typing SVG" 
+  />
+</p>
+
 </p>
 
