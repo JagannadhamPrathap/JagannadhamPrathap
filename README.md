@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=No+Talk,+Only+Code...;Python+Full+Stack+Dev;DSA+Enthusiast;Flask+%7C+Django+Learner;Logic+Cracker+%F0%9F%94%90" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Python+Full+Stack+Dev;DSA+Enthusiast;Flask+%7C+Django+Learner;No+Talk,+Only+Code...;Logic+Cracker+%F0%9F%94%90" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -65,8 +65,6 @@
 </p>
 
 ---
-
-## 👁️ Visitor Count
 
 ## 👁️ Visitor Count
 
