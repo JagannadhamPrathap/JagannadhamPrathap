@@ -68,9 +68,10 @@
 
 ## 👁️ Visitor Count
 
-<p align="center">
-  <img src="[https://visitcount.itsvg.in/api?id=JagannadhamPrathap&label=Profile%20Views&color=0&icon=5](https://github-visitors-badge.glitch.me/badge?page_id=JagannadhamPrathap.github-visitors-badge)" />
-</p>
+## 👁️ Visitor Count
+
+![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FJagannadhamPrathap&label=VISITORS)
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Built+with+%E2%9D%A4%EF%B8%8F+using+Markdown+on+GitHub" />
